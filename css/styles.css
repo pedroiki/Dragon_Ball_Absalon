@@ -1,0 +1,33 @@
+
+h1 {
+font-family: 'Sigmar One', cursive;
+font-size: 80px;
+text-align: center;
+color : blue;
+}
+
+h3 {
+font-family: 'Sigmar One', cursive;
+font-size: 40px;
+text-align: right;
+color : #899857;
+}
+
+
+
+p {
+font-family: 'Sigmar One', cursive;
+font-size: 20px;
+color : #ffe75e;
+text-align: center;
+}
+
+body {
+background-color: #f78259;
+}
+
+.copyright {
+font-size: 20px;
+color: #f3c623;
+margin-right: auto;
+}
