@@ -13,7 +13,11 @@ text-align: right;
 color : #899857;
 }
 
-
+.logo {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 p {
 font-family: 'Sigmar One', cursive;
@@ -27,7 +31,9 @@ background-color: #f78259;
 }
 
 .copyright {
-font-size: 20px;
-color: #f3c623;
-margin-right: auto;
+  font-family: 'Sigmar One', cursive;
+  font-size: 20px;
+  text-align: left;
+  color : #899857
+
 }
